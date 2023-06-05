@@ -10,3 +10,30 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    margin-top: 100px;
+}
+ul{
+    padding: 0;
+}
+
+ul li{
+    border: 1px solid grey;
+    list-style: none;
+    width: 600px;
+    padding: 5px;  
+    margin: auto; 
+    
+}
+h1{  
+   text-align: center;
+   font-size: 90px !important;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+   color: grey
+
+}
+.items{margin-left: 400px;}
+.input{
+    border-style: none ;
+    width: 100% !important;
+}
